@@ -1,0 +1,10 @@
+﻿BODY {
+    width: 70%; 
+    margin-left: auto;
+    margin-right: auto
+}
+
+#chart {
+    width: 100%;
+    height: 500px
+}
